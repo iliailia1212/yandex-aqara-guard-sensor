@@ -1,0 +1,22 @@
+{
+  "name": "yandex-aqara-guard-sensor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iliailia1212/yandex-aqara-guard-sensor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iliailia1212/yandex-aqara-guard-sensor/issues"
+  },
+  "homepage": "https://github.com/iliailia1212/yandex-aqara-guard-sensor#readme",
+  "dependencies": {
+    "@yandex-cloud/nodejs-sdk": "latest"
+  }
+}

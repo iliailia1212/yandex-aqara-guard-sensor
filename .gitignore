@@ -1,0 +1,4 @@
+.idea
+node_modules
+package-lock.json
+yandex-aqara-guard-sensor.iml
