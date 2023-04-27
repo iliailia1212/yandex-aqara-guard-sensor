@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/iliailia1212/yandex-aqara-guard-sensor#readme",
   "dependencies": {
-    "@yandex-cloud/nodejs-sdk": "latest"
+    "ydb-sdk": "^4.5.0"
   }
 }

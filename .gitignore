@@ -2,3 +2,4 @@
 node_modules
 package-lock.json
 yandex-aqara-guard-sensor.iml
+authorized_key.json
